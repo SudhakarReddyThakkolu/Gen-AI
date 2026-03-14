@@ -1,0 +1,47 @@
+Customer: Hi, I want to report an accident.
+
+Agent: I’m sorry to hear that sir. I’ll help you with the claim process. May I know your policy number?
+
+Customer: My policy number is MI-234567.
+
+Agent: Thank you. Let me quickly verify your details. Can you confirm your full name please?
+
+Customer: My name is Sudhakar R.
+
+Agent: Thank you Mr. Sudhakar. Could you tell me when the accident happened?
+
+Customer: It happened yesterday evening around 6 PM near Mysore Road.
+
+Agent: Understood. Were there any other vehicles involved in the accident?
+
+Customer: Yes, a car suddenly stopped in front of me and I hit the back of it.
+
+Agent: I see. Was anyone injured in the accident?
+
+Customer: No, thankfully no one was injured.
+
+Agent: That's good to hear. Can you describe the damage to your vehicle?
+
+Customer: The front bumper and left headlight are damaged.
+
+Agent: Thank you for the information. May I know the vehicle registration number?
+
+Customer: Yes, it is KA-09-MH-4582.
+
+Agent: Got it. Did you file a police report for the accident?
+
+Customer: Not yet. The traffic police came to the spot and asked us to file it online.
+
+Agent: Okay, I recommend filing the report as soon as possible since it may be required for claim processing.
+
+Customer: Sure, I will do that.
+
+Agent: I have now registered your claim request. Our surveyor will contact you within 24 hours to inspect the vehicle.
+
+Customer: Okay, thank you.
+
+Agent: You're welcome sir. Your claim reference number is CLM-90871. Please keep it for future communication.
+
+Customer: Thank you for the help.
+
+Agent: My pleasure. Have a good day and drive safely.
